@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>background images</title>
+</head>
+<body style="background-image:url('C:\Users\maheshreddy\Downloads\orange.jpeg')">
+
+</body>
+</html>
